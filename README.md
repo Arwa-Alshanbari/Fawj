@@ -24,11 +24,11 @@ Given below is the result on actual images taken from the test set provided in t
 
 Actual Image :
 
-<img src="https://github.com/Arwa-Alshanbari/Fowj-Model/main/test_images/IMG_105.jpg" width="480">
+<img src="https://github.com/Arwa-Alshanbari/Fowj/main/test_images/IMG_105.jpg" width="480">
 
 Generated Density Map : 
 
-<img src="https://github.com/Arwa-Alshanbari/Fowj-Model/main/results/105.jpg" width="480">
+<img src="https://github.com/Arwa-Alshanbari/Fowj/main/results/105.jpg" width="480">
 
 Actual Count : 258
 
